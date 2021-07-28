@@ -1,1 +1,3 @@
 this is our first message from git.
+
+This is new message from feature branch.
